@@ -1,6 +1,6 @@
 # SendAMessageToWeChatOfficialAccount
 
-发信息至微信公众号 V1.0
+# 发信息至微信公众号 V1.0
 
 这是一个auto.js脚本
 
